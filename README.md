@@ -1,2 +1,2 @@
 # TowerDefense-Unity
-A Tower Defense Game developed by Unity
+A 3D Tower Defense Game developed by Unity
